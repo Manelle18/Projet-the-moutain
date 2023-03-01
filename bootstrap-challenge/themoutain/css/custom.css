@@ -1,0 +1,79 @@
+#home {
+    background-image: url(../images/bg_header.jpg);
+    height: 1200px;
+    background-size: 100%;
+}
+
+#logo{
+    width: 150px;
+}
+.logo2{
+    font-size: 30px;
+    margin-top: 6px;
+}
+#bg-bleu{
+    background-color:rgba(173, 216, 230, 0.521)
+}
+#about {
+    background-image: url(../images/bg_nuage.jpg);
+    background-size: 100%;
+    background-position: 1px;
+
+}
+#photos{
+    background-color: rgb(206, 197, 186);
+}
+
+.jumbo {
+    margin-left: 900px;
+    margin-right: 300px;
+    color: white; 
+    padding: 40px;
+
+
+}
+
+#h1ju {
+    padding-top: 70px;
+}
+
+.h2ju {
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.pju {
+    margin-top: 20px;
+}
+
+
+.pjumb {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.pjumbnb {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+#history{
+    background-image: url("../images/bg_appareil_photo.jpg");
+    background-size: 100%;
+    background-position:center ;
+
+}
+.appareilbleu {
+  margin-left: 200px;
+  margin-right: 950px;
+}
+
+#partenaires div img {
+    height: 100px;
+    width: 100px;
+}
+#contact{
+     background-image: url("../images/bg_newsletter.jpg");
+     height: 500px;
+     
+}
